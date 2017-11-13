@@ -1,33 +1,33 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 1 1">
   <g style="fill: #ffffff">
-    <polygon points="0.0,0.0 1.0,0.0 1.0,1.0 0.0,1.0" />
+    <rect x="0.0" y="0.0" width="1.0" height="1.0" />
   </g>
   <g style="fill: #ffd700">
-    <polygon points="0.0,0.0 0.2,0.0 0.2,0.2 0.0,0.2" />
-    <polygon points="0.2,0.0 0.4,0.0 0.4,0.2 0.2,0.2" />
-    <polygon points="0.4,0.0 0.6,0.0 0.6,0.2 0.4,0.2" />
-    <polygon points="0.6,0.0 0.8,0.0 0.8,0.2 0.6,0.2" />
-    <polygon points="0.8,0.0 1.0,0.0 1.0,0.2 0.8,0.2" />
-    <polygon points="0.0,0.2 0.2,0.2 0.2,0.4 0.0,0.4" />
-    <polygon points="0.2,0.2 0.4,0.2 0.4,0.4 0.2,0.4" />
-    <polygon points="0.4,0.2 0.6,0.2 0.6,0.4 0.4,0.4" />
-    <polygon points="0.6,0.2 0.8,0.2 0.8,0.4 0.6,0.4" />
-    <polygon points="0.8,0.2 1.0,0.2 1.0,0.4 0.8,0.4" />
-    <polygon points="0.0,0.4 0.2,0.4 0.2,0.6 0.0,0.6" />
-    <polygon points="0.2,0.4 0.4,0.4 0.4,0.6 0.2,0.6" />
-    <polygon points="0.4,0.4 0.6,0.4 0.6,0.6 0.4,0.6" />
-    <polygon points="0.6,0.4 0.8,0.4 0.8,0.6 0.6,0.6" />
-    <polygon points="0.8,0.4 1.0,0.4 1.0,0.6 0.8,0.6" />
-    <polygon points="0.0,0.6 0.2,0.6 0.2,0.8 0.0,0.8" />
-    <polygon points="0.2,0.6 0.4,0.6 0.4,0.8 0.2,0.8" />
-    <polygon points="0.4,0.6 0.6,0.6 0.6,0.8 0.4,0.8" />
-    <polygon points="0.6,0.6 0.8,0.6 0.8,0.8 0.6,0.8" />
-    <polygon points="0.8,0.6 1.0,0.6 1.0,0.8 0.8,0.8" />
-    <polygon points="0.0,0.8 0.2,0.8 0.2,1.0 0.0,1.0" />
-    <polygon points="0.2,0.8 0.4,0.8 0.4,1.0 0.2,1.0" />
-    <polygon points="0.4,0.8 0.6,0.8 0.6,1.0 0.4,1.0" />
-    <polygon points="0.6,0.8 0.8,0.8 0.8,1.0 0.6,1.0" />
-    <polygon points="0.8,0.8 1.0,0.8 1.0,1.0 0.8,1.0" />
+    <rect x="0.0" y="0.0" width="0.2" height="0.2" />
+    <rect x="0.2" y="0.0" width="0.2" height="0.2" />
+    <rect x="0.4" y="0.0" width="0.2" height="0.2" />
+    <rect x="0.6" y="0.0" width="0.2" height="0.2" />
+    <rect x="0.8" y="0.0" width="0.2" height="0.2" />
+    <rect x="0.0" y="0.2" width="0.2" height="0.2" />
+    <rect x="0.2" y="0.2" width="0.2" height="0.2" />
+    <rect x="0.4" y="0.2" width="0.2" height="0.2" />
+    <rect x="0.6" y="0.2" width="0.2" height="0.2" />
+    <rect x="0.8" y="0.2" width="0.2" height="0.2" />
+    <rect x="0.0" y="0.4" width="0.2" height="0.2" />
+    <rect x="0.2" y="0.4" width="0.2" height="0.2" />
+    <rect x="0.4" y="0.4" width="0.2" height="0.2" />
+    <rect x="0.6" y="0.4" width="0.2" height="0.2" />
+    <rect x="0.8" y="0.4" width="0.2" height="0.2" />
+    <rect x="0.0" y="0.6" width="0.2" height="0.2" />
+    <rect x="0.2" y="0.6" width="0.2" height="0.2" />
+    <rect x="0.4" y="0.6" width="0.2" height="0.2" />
+    <rect x="0.6" y="0.6" width="0.2" height="0.2" />
+    <rect x="0.8" y="0.6" width="0.2" height="0.2" />
+    <rect x="0.0" y="0.8" width="0.2" height="0.2" />
+    <rect x="0.2" y="0.8" width="0.2" height="0.2" />
+    <rect x="0.4" y="0.8" width="0.2" height="0.2" />
+    <rect x="0.6" y="0.8" width="0.2" height="0.2" />
+    <rect x="0.8" y="0.8" width="0.2" height="0.2" />
   </g>
 </svg>
