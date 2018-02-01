@@ -1,4 +1,4 @@
-# icon-for-github
+# icons
 
 ## License
 
